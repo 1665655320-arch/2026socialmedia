@@ -7,7 +7,7 @@
 
 ## 范文参考：[多总体比较：ANOVA和Kruskal-Wallis检验](https://mp.weixin.qq.com/s/4hPKtmN6TpuftZAJFrI2eg)
 
-或参考：https://github.com/xiaoningwang/2026socialmedia
+或参考：https://github.com/xiaoningwang/2024socialmedia
 
 ## 如有截图需将图片放入figure文件夹
 
