@@ -90,7 +90,7 @@ $$
 
 ![Daley–Kendall 模型在确定性近似下的典型演化曲线](./figures/DK模型可视化.png)
 
- $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ **图 1  Daley–Kendall 模型的典型状态演化曲线**
+ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ **图 1  Daley–Kendall 模型的典型状态演化曲线**
 
 图中 $X(t)$ 、 $Y(t)$ 、 $Z(t)$ 分别表示未知者、传播者和停止传播者比例。可以看到，传播者比例先上升后下降，而未知者持续减少、停止传播者持续增加。
 
