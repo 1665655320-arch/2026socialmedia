@@ -3,7 +3,7 @@
 # ⚠️注意
 
 
-## Markdown学习文件：[Markdown 入门参考](http://xianbai.me/learn-md/index.html)
+## Markdown学习文件：[Markdown 入门参考](https://markdown.com.cn/basic-syntax/index.html)
 
 ## 范文参考：[多总体比较：ANOVA和Kruskal-Wallis检验](https://mp.weixin.qq.com/s/4hPKtmN6TpuftZAJFrI2eg)
 
