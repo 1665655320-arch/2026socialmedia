@@ -88,7 +88,7 @@ $$
 
 ### 典型演化曲线
 
-![Daley–Kendall 模型在确定性近似下的典型演化曲线](./figures/DK模型可视化.png)
+![Daley–Kendall 模型在确定性近似下的典型演化曲线](./figure/DK模型可视化.png)
 
  $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ **图 1  Daley–Kendall 模型的典型状态演化曲线**
 
